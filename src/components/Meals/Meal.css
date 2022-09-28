@@ -1,0 +1,20 @@
+.meal {
+    border: 2px solid maroon;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.meal img {
+    height: 300px;
+    width: 400px;
+    border-radius: 10px;
+}
+
+.meal button {
+    background: goldenrod;
+    border: 0;
+    color: #000;
+    padding: 10px 20px;
+    border-radius: 2px;
+}

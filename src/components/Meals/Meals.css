@@ -1,0 +1,18 @@
+.sub-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+
+.db-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.cart-container {
+    background-color: tomato;
+    position: sticky;
+    top: 0;
+    right: 0;
+
+
+}
